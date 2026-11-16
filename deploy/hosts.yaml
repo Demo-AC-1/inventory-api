@@ -1,3 +1,4 @@
+# Production deployment targets
 hosts:
-  - inventory-api01.acme.example
+  - inventory-api-001.acme.example
 image: registry.acme.example/inventory/inventory-api
